@@ -1,3 +1,4 @@
+*.axl linguist-language=Starlark
 **/*.lock linguist-generated
 pnpm-lock.yaml linguist-generated
 language/orion/tests/starzelle/*/bad.axl linguist-generated
